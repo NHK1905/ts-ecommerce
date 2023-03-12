@@ -22,6 +22,7 @@ const Product = ({ product, dispatch, REDUCER_ACTIONS, inCart }: PropsType):Reac
     <article className="product">
       <a href="">a</a>
       mádansdnasd
+      asdasd
       <h3>{product.name}</h3>
       <p>a</p>
       <img src={img} alt={product.name} className="product__img" />
